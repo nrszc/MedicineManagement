@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+div dt{
+	float:left;
+}
+div dd{
+	margin:0px; float:left;
+}
+div strong{
+	color:red;
+}
